@@ -1,0 +1,2 @@
+a = 'sibal'
+print(a)
